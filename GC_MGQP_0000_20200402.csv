@@ -1,0 +1,208 @@
+Description,Count,Selected,Chosen,Modified,Type
+Summary,,,,,
+Total:,11288,11288,0,0,
+AAA010:Extraction Mine (IND),9,6,0,0,seed
+AAL010:Facility (IND),7,7,0,0,seed
+AAL015:General Building (POP),4,4,0,0,seed
+AAL020:Built-Up (POP),7,7,0,0,seed
+AAL105:Settlement (POP),5,5,0,0,seed
+ABH080:Lake (IWA),3,3,0,0,seed
+ABH090:Land Subject to Inundation (IWA),7,7,0,0,seed
+ABH130:Reservoir (IWA),4,4,0,0,seed
+ABH135:Rice Field (VEG),7,9,0,0,seed
+AEA010:Crop Land (VEG),68,68,0,0,seed
+AEA040:Orchard (VEG),2,2,0,0,seed
+AEB010:Grassland (VEG),364,565,0,0,seed
+AEB020:Thicket (VEG),382,382,0,0,seed
+AED010:Marsh (VEG),2,10,0,0,seed
+BUFN4 Node,2164,2164,0,0,node
+Cell Edge,326,326,0,0,span
+LAL260:Wall (GOB),8,8,0,0,span
+LAN010:Railway (GTR),10,26,0,0,span
+LAP010:Cart Track (GTR),120,120,0,0,span
+LAP030:Road (GTR),25,25,0,0,span
+LAQ040:Bridge (GTR),7,7,0,0,span
+LBH140:River (IWA),186,186,0,0,span
+LBI020:Dam (IWA),6,6,0,0,span
+LDB090:Embankment (PHY),25,25,0,0,span
+PAA010:Extraction Mine (IND),36,36,0,0,free item
+PAA050:Well (IWA),98,105,0,0,free item
+PAH070:Checkpoint (POP),1,1,0,0,free item
+PAK040:Sports Ground (POP),2,2,0,0,free item
+PAL015:General Building (POP),6500,5776,0,0,free item
+PAL030:Cemetery (POP),1,1,0,0,free item
+PAL105:Settlement (POP),34,34,0,0,free item
+PAL241:Tower (POP),4,4,0,0,free item
+PAM070:Storage Tank (IND),2,2,0,0,free item
+PAQ065:Culvert (GTR),33,33,0,0,free item
+PBH145:Vanishing (IWA),6,6,0,0,free item
+PBH170:Natural Pool (IWA),56,56,0,0,free item
+PBI010:Water Storage (IWA),1,1,0,0,free item
+PCA030:Spot Elevation (DLT),25,25,0,0,free item
+PolyLimit (Culture),34,34,0,0,span
+PolyLimit (Hydrography),26,26,0,0,span
+PolyLimit (Other),24,24,0,0,span
+PolyLimit (Physiography),11,11,0,0,span
+PolyLimit (Vegetation),1373,1373,0,0,span
+,,,,,
+Groups,,,,,
+VEG-Vegetation,825,825,0,0,
+POP-Population,5834,5834,0,0,
+PHY-Physiography,25,25,0,0,
+OAF-Other Area Feature,373,373,0,0,
+LAF-Landcover Area Feature,2615,2615,0,0,
+IWA-Inland Water,367,367,0,0,
+IND-Industry,51,51,0,0,
+GTR-Ground Transportation,195,195,0,0,
+GOB-Ground Obstacles,8,8,0,0,
+E-Vegetation,2191,2191,0,0,
+DLT-Delta layer,25,25,0,0,
+D-Physiography,36,36,0,0,
+C-Hypsography,25,25,0,0,
+BUFN4,9124,9124,0,0,
+B-Hydrography,302,302,0,0,
+A-Culture,6220,6220,0,0,
+,,,,,
+Types,,,,,
+free item,6075,6075,0,0,
+node,2164,2164,0,0,
+span,2181,2181,0,0,
+seed,868,868,0,0,
+,,,,,
+Attribute,Count,,,,
+text,,,,,
+(NAM) Name,6791,,,,
+(NFI) Unknown,6791,,,,
+(NFN) Unknown,6791,,,,
+(TXT) Text Attribute,7329,,,,
+(DMT) Density Measure (% of Tree/Canopy Cover),70,,,,
+(HGT) Height Above Surface Level,5792,,,,
+(VOI) Vertical Obstruction Identifier,5799,,,,
+(NOS) Span Count,7,,,,
+(OHB) Overall Height of Bridge,7,,,,
+(WD1) Minimum Traveled Way Width,152,,,,
+(WID) Width,265,,,,
+(DMB) Density Measure (Brush/Undergrowth),382,,,,
+(AOO) Angle of Orientation,33,,,,
+(GAW) Gauge Width,10,,,,
+(LTN) Track/Lane Number,35,,,,
+(GM_POINT) gm_point,1,,,,
+(ZVH) Highest Z-Value,25,,,,
+(BEL) BEL,25,,,,
+SCALE,7330,,,,
+(FUN) Condition of Facility <AA010IND>,42,,,,
+(MZN) Extraction Mine Type <AA010IND>,42,,,,
+(PPO) Product <AA010IND>,42,,,,
+(ACC) Accuracy Category <AA010IND>,42,,,,
+(CSP) Crop Species <EA040VEG>,2,,,,
+(ACC) Accuracy Category <EA040VEG>,2,,,,
+(FUN) Condition of Facility <AK040POP>,2,,,,
+(SMC) Surface Material Category <AK040POP>,2,,,,
+(ACC) Accuracy Category <AK040POP>,2,,,,
+(FFN) Feature Function <AL015POP>,5780,,,,
+(FUN) Condition of Facility <AL015POP>,5780,,,,
+(HWT) House of Worship Type <AL015POP>,5780,,,,
+(ACC) Accuracy Category <AL015POP>,5780,,,,
+(BAC) Built-Up Area Classification <AL020POP>,7,,,,
+(FUC) Functional Use <AL020POP>,7,,,,
+(FUN) Condition of Facility <AL020POP>,7,,,,
+(ORD) Ordinal Category <AL020POP>,7,,,,
+(ACC) Accuracy Category <AL020POP>,7,,,,
+(REL) Religious Denomination <AL030POP>,1,,,,
+(ACC) Accuracy Category <AL030POP>,1,,,,
+(FUC) Functional Use <AL105POP>,39,,,,
+(FUN) Condition of Facility <AL105POP>,39,,,,
+(ACC) Accuracy Category <AL105POP>,39,,,,
+(FUN) Condition of Facility <AM070IND>,2,,,,
+(LOC) Location Category <AM070IND>,2,,,,
+(PPO) Product <AM070IND>,2,,,,
+(SSC) Structure Shape Category <AM070IND>,2,,,,
+(ACC) Accuracy Category <AM070IND>,2,,,,
+(BOT) Bridge Opening Type <AQ040GTR>,7,,,,
+(BSC) Bridge/Bridge Superstructure Category <AQ040GTR>,7,,,,
+(FUN) Condition of Facility <AQ040GTR>,7,,,,
+(MCC) Material Composition Category <AQ040GTR>,7,,,,
+(TRS) Transportation System Type <AQ040GTR>,7,,,,
+(ACC) Accuracy Category <AQ040GTR>,7,,,,
+(FUN) Condition of Facility <AL010IND>,7,,,,
+(FFN) Feature Function <AL010IND>,7,,,,
+(ACC) Accuracy Category <AL010IND>,7,,,,
+(HYP) Hydrologic Persistence <BH080IWA>,3,,,,
+(SCC) Spring/Well Characteristic Category <BH080IWA>,3,,,,
+(ACC) Accuracy Category <BH080IWA>,3,,,,
+(AZC) Man-made <BH090IWA>,7,,,,
+(CNS) Controlled <BH090IWA>,7,,,,
+(ACC) Accuracy Category <BH090IWA>,7,,,,
+(FUN) Condition of Facility <BH130IWA>,4,,,,
+(HYP) Hydrologic Persistence <BH130IWA>,4,,,,
+(ACC) Accuracy Category <BH130IWA>,4,,,,
+(FFP) Farming Pattern <BH135VEG>,7,,,,
+(ACC) Accuracy Category <BH135VEG>,7,,,,
+(CDA) Covered Drain <BH140IWA>,186,,,,
+(HYP) Hydrologic Persistence <BH140IWA>,186,,,,
+(TID) Tidal/Non-Tidal Category <BH140IWA>,186,,,,
+(WCC) Watercourse Channel Type <BH140IWA>,186,,,,
+(WST) Watercourse Sink Type <BH140IWA>,186,,,,
+(ACC) Accuracy Category <BH140IWA>,186,,,,
+(FUN) Condition of Facility <BI020IWA>,6,,,,
+(MCC) Material Composition Category <BI020IWA>,6,,,,
+(TRS) Transportation System Type <BI020IWA>,6,,,,
+(ACC) Accuracy Category <BI020IWA>,6,,,,
+(FIC) Embankment Type <DB090PHY>,25,,,,
+(MCC) Material Composition Category <DB090PHY>,25,,,,
+(TRS) Transportation System Type <DB090PHY>,25,,,,
+(ACC) Accuracy Category <DB090PHY>,25,,,,
+(CSP) Crop Species <EA010VEG>,68,,,,
+(FFP) Farming Pattern <EA010VEG>,68,,,,
+(FMM) Farming Method <EA010VEG>,68,,,,
+(ACC) Accuracy Category <EA010VEG>,68,,,,
+(VEG) Vegetation Characteristics <EB010VEG>,364,,,,
+(ACC) Accuracy Category <EB010VEG>,364,,,,
+(ACC) Accuracy Category <EB020VEG>,382,,,,
+(TID) Tidal/Non-Tidal Category <ED010VEG>,2,,,,
+(ACC) Accuracy Category <ED010VEG>,2,,,,
+(MCC) Material Composition Category <AL260GOB>,8,,,,
+(ACC) Accuracy Category <AL260GOB>,8,,,,
+(FUN) Condition of Facility <AN010GTR>,10,,,,
+(LOC) Location Category <AN010GTR>,10,,,,
+(RGC) Railroad Gauge Category <AN010GTR>,10,,,,
+(RIR) Railway In Road <AN010GTR>,10,,,,
+(RRA) Railroad Power Source <AN010GTR>,10,,,,
+(RRC) Railroad Categories <AN010GTR>,10,,,,
+(RTA) Linear Feature Arrangement <AN010GTR>,10,,,,
+(RWC) Railway Class <AN010GTR>,10,,,,
+(ACC) Accuracy Category <AN010GTR>,10,,,,
+(WTC) Weather Type Category <AP010GTR>,120,,,,
+(ACC) Accuracy Category <AP010GTR>,120,,,,
+(FUN) Condition of Facility <AP030GTR>,25,,,,
+(CON) Route Width Constriction Type <AP030GTR>,25,,,,
+(SEP) Divided <AP030GTR>,25,,,,
+(HCT) Thoroughfare Class <AP030GTR>,25,,,,
+(LOC) Location Category <AP030GTR>,25,,,,
+(MES) Median Present <AP030GTR>,25,,,,
+(RST) Road/Runway Surface Type <AP030GTR>,25,,,,
+(WTC) Weather Type Category <AP030GTR>,25,,,,
+(ACC) Accuracy Category <AP030GTR>,25,,,,
+(FUN) Condition of Facility <AA050IWA>,98,,,,
+(HYP) Hydrologic Persistence <AA050IWA>,98,,,,
+(PPO) Product <AA050IWA>,98,,,,
+(SCC) Spring/Well Characteristic Category <AA050IWA>,98,,,,
+(WFT) Well Feature Type <AA050IWA>,98,,,,
+(ACC) Accuracy Category <AA050IWA>,98,,,,
+(ACC) Accuracy Category <AH070POP>,1,,,,
+(ACC) Accuracy Category <AQ065GTR>,33,,,,
+(WST) Watercourse Sink Type <BH145IWA>,6,,,,
+(ACC) Accuracy Category <BH145IWA>,6,,,,
+(HYP) Hydrologic Persistence <BH170IWA>,56,,,,
+(SWT) Well/Spring Feature Type <BH170IWA>,56,,,,
+(ACC) Accuracy Category <BH170IWA>,56,,,,
+(FUN) Condition of Facility <AL241POP>,4,,,,
+(TTC) Tower Type Category <AL241POP>,4,,,,
+(ACC) Accuracy Category <AL241POP>,4,,,,
+(ELA) Elevation Accuracy <CA030DLT>,25,,,,
+(ACC) Accuracy Category <CA030DLT>,25,,,,
+Extracted By,9124,,,,
+Acronym for feature,868,,,,
+Polygon Layer,868,,,,
+NAM Designation,6791,,,,
+Process Date,11288,,,,
